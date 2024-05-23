@@ -1,0 +1,84 @@
+HTML:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="website1" content="This is the first practice html+css website">
+    <link rel="stylesheet" href="style.css">
+   
+    
+    <title>IATT Website</title>
+    <style>
+    
+      
+    </style>
+</head>
+<body>
+  
+    <div class="ban">
+        <div class="nav">
+            <a href="#"><img src="https://i.postimg.cc/Wh81f9t8/logoiat-removebg-preview.png" style="padding-left: 82%;padding-bottom: 28%;" loading="lazy"  width="80px" height="80px"  ></a>
+            <h1 style="padding-bottom: 2%;padding-right: 10%; font-size: 100%;text-shadow:
+            1px 1px 2px black,
+            0 0 1em rgb(2, 2, 54),
+            0 0 0.2em blue;">Ibhan Agile Talent Technilogies Pvt.Ltd. </h1> <br>        
+            <ul style="padding-bottom: 2%;padding-right: 10%;font-size: 40%;text-shadow:
+            1px 1px 2px black,
+            0 0 1em rgb(2, 2, 54),
+            0 0 0.2em blue;">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Course</a></li>
+                <li><a href="#"> Contact Us</a></li>
+            </ul>
+        </div>
+
+
+        <div class="box">
+          <section class="slider_container">
+            <section class="slider">
+              <div class="slide one">
+                <img src="Copy-of-BINUS-Apa-Itu-Strategi-Marketing-Communication-dan-Contoh-Penerapannya_ - Copy.jpg" alt="">
+        
+                
+              </div>
+              <div class="slide two">
+                <img src="image2222.jpg" alt="">
+               
+              </div>
+              <div class="slide three">
+                <img src="image55555.jpg" alt="">
+               
+              </div>
+              <div class="slide four">
+                <img src="image99999 - Copy.jpg" alt="">
+               
+              </div>
+              <div class="slide four">
+                <img src="imag3.jpg" alt="">
+               
+              </div>
+            </section>
+          </section>
+        </div>
+        
+    </div>
+     <div class="a">
+        <div class="aa">
+    <form id="loginForm">
+        <center><h2>Log In</h2></center>
+        <br>
+        <br>
+        <input type="text" id="username" placeholder="Username or Email" >
+        <br>
+        <input type="password" id="password" placeholder="Password">
+       <br>
+        <center><button class="btn-91">
+            <span>login</span>
+          </button></center>
+    </form></div>>
+        
+</body>
+</html>>
